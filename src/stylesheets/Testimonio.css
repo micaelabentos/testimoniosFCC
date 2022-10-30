@@ -1,0 +1,38 @@
+.user-contenedor {
+    width: 1170px;
+    height: 368px;
+    margin: 10px 10px 50px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: #fff;
+    box-shadow: 0 3px 13px 1px rgb(0, 0, 0, 9%);
+}
+
+.user-img {
+ height: 100%;
+ width: auto;
+}
+
+.user-contenedor-texto {
+    text-align: center;
+    padding: 40px;
+    font-family: Lato, sans-serif;
+    font-weight: 500;
+    line-height: 1.5rem;
+}
+
+.user-nombre {
+    font-size: 23px;
+}
+
+.user-cargo {
+    font-size: 23px;
+    margin-top: 15px;
+    padding-bottom: 30px;
+}
+
+.user-testimonio {
+    font-size: 18px;
+    text-align: justify;
+}
